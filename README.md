@@ -1,2 +1,2 @@
 # learning-languages
-💻 Simple implementations in different languages that I'm trying to learn.
+💻 Simple implementations in different programming languages that I'm trying to learn.
